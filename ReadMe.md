@@ -69,3 +69,4 @@ Slits for Tubes: Make a single horizontal cut and then 1-20 vertical cuts into t
 ![20251117_184522](https://github.com/user-attachments/assets/422b0161-086f-4789-873f-a9af97b55894)
 ![20251117_184534](https://github.com/user-attachments/assets/8ff44827-4722-4bd2-89b3-065c8d03215d)
 
+https://youtube.com/shorts/af2I5g4mg1M?feature=share
