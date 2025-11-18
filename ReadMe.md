@@ -21,16 +21,16 @@ To start, you will need:
 
 **Setup and Configuration**
 Flash the ESP-01:
-Flash the necessary firmware to the ESP using the Arduino IDE.
+Flash the moonraker.ino firmware to the ESP using the Arduino IDE.
 You will need the ESP8266 board libraries.
 Select "ESP8266 Generic" as the board type.
-use the moonraker.ino file to flash via arudiono ide
 
 You will need to change the Wi-Fi credentials in the code to your specific Wi-Fi information.
 
 **Moonraker Configuration (AD5X/Zmod):**
 
 Add the provided user.moonraker.conf code to the configuration file located at mod_data/user.moonraker.conf on your AD5X running Zmod.
+You will need to add the relay modules IP address, i suggets using a static Ip 
 
 Add the provided user.cfg code to the configuration file located at mod_data/user.cfg.
 
@@ -46,6 +46,7 @@ I used spade connectors on the build plate power supply (PSU) to connect my buck
 I then wired the relay up to the converter: 24V on the fan side of the relay, and 5V from the buck converter to power the ESP-01.
 
 ![20251117_193906](https://github.com/user-attachments/assets/484594c4-3eb0-492a-b46a-1e1b15509220)
+
 **Installation & Placement**
 Fan Installation
 Secure the fan using the M3x16 Screws.
