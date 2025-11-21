@@ -70,3 +70,10 @@ Slits for Tubes: Make a single horizontal cut and then 1-20 vertical cuts into t
 ![20251117_184534](https://github.com/user-attachments/assets/8ff44827-4722-4bd2-89b3-065c8d03215d)
 
 https://youtube.com/shorts/af2I5g4mg1M?feature=share
+
+
+
+**Next Steps**
+Remove the large buck converter and replace with a tiny MP1584EN 3A Buck Step-down
+remix  enclosure for wire managment and convterter.
+upgrade to 4020 fan for better air flow
