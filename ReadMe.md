@@ -1,6 +1,6 @@
 **AD5X Exhaust Fan Mod with Moonraker HTTP Control for Zmod**
 
-The AD5X has the same frame as the Adventurer Pro and can support a fan. However, the motherboard is missing the headers. Not wanting to solder a connector onto my new printer, I came up with a less invasive alternative.
+The AD5X has the same frame as the Adventurer Pro and can support a fan. However, the motherboard is missing the headers and mosfets. Not wanting to solder a connector and components onto my new printer, I came up with a less invasive alternative as a proof of concept 
 
 I'm using a Moonraker HTTP power API with an ESP-01 and a relay hat to turn the fan on and off. The main limitation is the inability to control the fan speed; it is 0% or 100%.
 
