@@ -61,7 +61,7 @@ https://www.thingiverse.com/thing:7104017
 
 
 **Sealing the Enclosure**
-To ensure proper ventilation and prevent exhaust air from recirculating into the chamber, you must seal the large open space where the PTFE tubes enter the print chamber.
+To ensure proper ventilation and prevent exhaust fumes from escaping the chamber directly into the room, you must seal the large open space where the PTFE tubes enter the print chamber.
 Create the Seal: Use craft foam to create a cover.
 Attachment: Glue the AD5X enclosure ring (the part around the existing tube hole) to the foam.
 Trimming: Trim the foam to match the enclosure ring's size.
